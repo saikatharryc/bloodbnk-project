@@ -1,8 +1,5 @@
 /*
-    Theme Name: Medilab
-    Theme URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
+ everywhere the color #0CB8B6 needs to be changed to retransparent red
 */
 
 body {
@@ -97,7 +94,7 @@ banner
 
 .top-nav-collapse {
     padding: 0; 
-    background: rgba(28,74,90, 0.9);
+    background: rgba(28,74,90, 0.9);/*to be changed to red*/
 }
 
 .white, .white:hover, .white:focus
@@ -141,7 +138,9 @@ banner
 	position: relative;
 }
 .bg-color{
-	background-color: RGBA(13, 70, 83, 0.78);
+	background-color: RGBA(13, 70, 83, 0.78); 
+    /*to be changed color to red*/
+
 	min-height: 650px;
 }
 .banner-info{
