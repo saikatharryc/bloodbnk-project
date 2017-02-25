@@ -17,3 +17,4 @@ git clone ***git url***
 4>  to shift into another branch just do :
 
   git checkout -b ***branch Name***
+
